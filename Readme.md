@@ -1,0 +1,1 @@
+## Cross compile openssl for iphone and simulator
